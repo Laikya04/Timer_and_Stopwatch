@@ -1,7 +1,7 @@
 # Timer and Stopwatch
 
 ## Project Description
-A web application designed to provide users with a simple and efficient way to manage time using timers and stopwatches. It offers an intuitive interface to set timers and start/stop the stopwatch. This application is built using HTML, CSS, JavaScript, and Bootstrap for styling.
+Timeziee is a  web application designed to provide users with a simple and efficient way to manage time using timers and stopwatches. It offers an intuitive interface to set timers and start/stop the stopwatch. This application is built using HTML, CSS, JavaScript, and Bootstrap for styling.
 
 ## Features
 - **Homepage** : A welcoming page that provides navigation to the Timer and Stopwatch features.
@@ -41,3 +41,17 @@ The project consists of several HTML files, a CSS file, and JavaScript code embe
 - Embedded within the HTML files, JavaScript is used to handle user interactions and control the timer and stopwatch functionalities.
 
 ## Screenshots
+
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/414a5fe9-aec4-4253-9077-fac5b1a134db)
+
+### Set Timer
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/8e22eed6-d494-4808-94e6-bec199a56836" alt="Set Timer Screenshot 1" style="width: 48%;"/>
+  <img src="https://github.com/user-attachments/assets/3eb1ad04-0cc8-4936-97b4-0d2ba4309d06" alt="Set Timer Screenshot 2" style="width: 48%;"/>
+</div>
+
+### Start Stopwatch
+![Start Stopwatch](https://github.com/user-attachments/assets/5b569b56-a994-4210-a28d-ec2577835870)
+
+
